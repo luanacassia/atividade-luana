@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(127, 146, 255);
+    color: aliceblue;
+    text-align: center;
+}
+
+.lista{
+    background-color:aliceblue;
+    text-align: left;
+    
+}
+.menu{
+    text-align: left;
+}
+.rodape{
+
+    text-align: center;
+    height: auto;
+    width: auto;
+}
